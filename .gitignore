@@ -1,0 +1,20 @@
+# Simulation files
+*.vcd
+*.fsdb
+*.log
+*.shm/
+*.key
+work/
+transcript
+vsim.wlf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
